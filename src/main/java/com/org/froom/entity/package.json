@@ -1,0 +1,30 @@
+[
+  {
+    "key": 123321,
+    "productAdded": 1664702997,
+    "productCategory": "Mobile Phones",
+    "productDescription": "Apple is222Phone. That\\u0027s it. That\\u0027s a Statement",
+    "productId": 22322,
+    "productImageUrl": "https: //www.apple.com/newsroom/images/product/iphone/geo/Apple-iPhone-14-iPhone-14-Plus-2up-midnight-220907-geo_inline.jpg.large.jpg",
+    "productName": "Apple iPhs4444one14",
+    "productPrice": 99999,
+    "productQuantity": 33,
+    "productQuatity": 30,
+    "uri": "test",
+    "$key": "0"
+  },
+  {
+    "key": 44432,
+    "productAdded": 1664702933,
+    "productCategory": "Mobile Phones",
+    "productDescription": "Samsung S22",
+    "productId": 2333,
+    "productImageUrl": "https://www.thehindu.com/incoming/aaftll/article65251608.ece/alternates/FREE_1200/_S22_Ultra_Banner_3000x2000.jpg",
+    "productName": "Samsung S22",
+    "productPrice": 33999,
+    "productQuantity": 22,
+    "productQuatity": 11,
+    "uri": "test",
+    "$key": "1"
+  }
+]
